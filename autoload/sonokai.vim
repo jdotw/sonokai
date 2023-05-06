@@ -138,7 +138,7 @@ function! sonokai#get_palette(style, colors_override) "{{{
           \ }
   elseif a:style ==# 'jw-3'
     let palette = {
-          \ 'black':      ['#1a181a',   '232'],
+          \ 'black':      ['#141314',   '232'],
           \ 'bg_dim':     ['#211f21',   '232'],
           \ 'bg0':        ['#191719',   '235'],
           \ 'bg1':        ['#37343a',   '236'],
